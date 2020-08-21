@@ -2,5 +2,5 @@
 
 Install creator on your project:
 
-pip install creator
+pip install creator-admin-next
 
